@@ -1,0 +1,84 @@
+
+
+[
+  {
+    "title": "Digital India Programme",
+    "year": 2015,
+    "sector": "IT",
+    "summary": "Transform India into a digitally empowered society and knowledge economy.",
+    "details": "Launched to ensure government services are made available to citizens electronically by improving online infrastructure and internet connectivity.",
+    "url": "https://www.digitalindia.gov.in/"
+  },
+  {
+    "title": "National Education Policy 2020",
+    "year": 2020,
+    "sector": "Education",
+    "summary": "Overhauls Indian education to suit 21st-century needs.",
+    "details": "Introduces multidisciplinary learning, local language instruction, coding from grade 6, and a new curricular structure (5+3+3+4).",
+    "url": "https://www.education.gov.in/"
+  },
+  {
+    "title": "Ayushman Bharat Yojana",
+    "year": 2018,
+    "sector": "Health",
+    "summary": "World’s largest health insurance scheme for poor and vulnerable families.",
+    "details": "Provides ₹5 lakh per family per year for secondary and tertiary care hospitalization under PM-JAY.",
+    "url": "https://pmjay.gov.in/"
+  },
+  {
+    "title": "Make in India",
+    "year": 2014,
+    "sector": "Industry",
+    "summary": "Encourages companies to manufacture in India and incentivizes dedicated investments.",
+    "details": "Targets 25 sectors of the economy like electronics, defense, railways, textiles to boost domestic manufacturing.",
+    "url": "https://www.makeinindia.com/"
+  },
+  {
+    "title": "Beti Bachao Beti Padhao",
+    "year": 2015,
+    "sector": "Women & Child",
+    "summary": "Addresses the declining child sex ratio and promotes girl education.",
+    "details": "Multi-sectoral action plan across 100 gender-critical districts in India involving the Ministry of Women & Child Development, Health, and Education.",
+    "url": "https://wcd.nic.in/"
+  },
+  {
+    "title": "Startup India",
+    "year": 2016,
+    "sector": "Entrepreneurship",
+    "summary": "Supports startups through tax benefits, easier compliance, and funding.",
+    "details": "Provides DPIIT recognition, 3-year tax exemption, faster patent examination and fund-of-funds for startups.",
+    "url": "https://www.startupindia.gov.in/"
+  },
+  {
+    "title": "Swachh Bharat Mission",
+    "year": 2014,
+    "sector": "Sanitation",
+    "summary": "Aims to eliminate open defecation and improve solid waste management.",
+    "details": "Divided into Swachh Bharat (Urban) and Swachh Bharat (Gramin) with targets for building toilets and waste processing units.",
+    "url": "https://swachhbharatmission.gov.in/"
+  },
+  {
+    "title": "PM-Kisan Samman Nidhi",
+    "year": 2019,
+    "sector": "Agriculture",
+    "summary": "Provides income support to all landholding farmer families.",
+    "details": "₹6,000 per year is transferred directly to bank accounts of eligible farmers in 3 equal installments.",
+    "url": "https://pmkisan.gov.in/"
+  },
+  {
+    "title": "National Policy on Skill Development and Entrepreneurship",
+    "year": 2015,
+    "sector": "Employment",
+    "summary": "Develops workforce through skill training and entrepreneurship support.",
+    "details": "Focuses on upskilling youth through National Skill Development Corporation and Pradhan Mantri Kaushal Vikas Yojana (PMKVY).",
+    "url": "https://www.skilldevelopment.gov.in/"
+  },
+  {
+    "title": "Atal Mission for Rejuvenation and Urban Transformation (AMRUT)",
+    "year": 2015,
+    "sector": "Urban",
+    "summary": "Provides basic urban infrastructure to improve quality of life.",
+    "details": "Focuses on water supply, sewerage, stormwater drainage, urban transport and green spaces in 500 cities.",
+    "url": "https://amrut.gov.in/"
+  }
+]
