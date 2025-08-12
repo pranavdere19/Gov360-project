@@ -4,6 +4,7 @@
 Gov360 is a Python-based GUI application designed to help citizens, students, and researchers easily explore and understand Indian government policies.  
 It uses SQLite for local storage and Requests for fetching policy data from online sources.
 
+
 ![Gov360 homepage](homepage.jpeg)
 
 ## 🚀 Features
